@@ -1,0 +1,19 @@
+.plant-card{
+    border: 1px solid rgba(0, 0, 0, 0.099);
+    width: 200px;
+    height: 250px;
+    
+}
+.plant-image{
+    font-size: 5rem;
+margin: 0;
+}
+
+.plant-card h3 {
+    text-align: left;
+    padding-left: 10%;
+}
+.plant-card button{
+width: 100%;
+padding: 0.5rem;
+}
